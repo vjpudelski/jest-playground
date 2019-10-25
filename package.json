@@ -1,0 +1,25 @@
+{
+  "name": "jest-playground",
+  "version": "1.0.0",
+  "description": "jest test framework exploration application",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vjpudelski/jest-playground.git"
+  },
+  "author": "Victor J. Pudelski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vjpudelski/jest-playground/issues"
+  },
+  "homepage": "https://github.com/vjpudelski/jest-playground#readme",
+  "devDependencies": {
+    "@babel/core": "^7.6.4",
+    "@babel/preset-env": "^7.6.3",
+    "babel-jest": "^24.9.0",
+    "jest": "^24.9.0"
+  }
+}
